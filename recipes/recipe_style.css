@@ -15,7 +15,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(238, 131, 113);
+    background-color: rgb(88, 88, 88);
 }
 
 nav li {
@@ -32,12 +32,12 @@ nav li a {
 }
 
 nav li a:hover:not(.active) {
-    background-color: rgb(155, 63, 46);
+    background-color: rgb(61, 128, 83);
 }
 
 body {
     margin: 0;
-    background-color: rgb(238, 131, 113);
+    background-color: rgb(36, 35, 35);
 }
 
 .container {
@@ -51,7 +51,7 @@ body {
 }
 
 .flex-child {
-    background-color: rgb(197, 101, 84);
+    background-color: rgb(55, 107, 91);
     /* margin: 15px; */
     color:white;
     /* margin-top: auto; */

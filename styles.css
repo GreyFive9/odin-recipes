@@ -11,7 +11,7 @@ body {
 
 body {
     margin: 0;
-    background-color: rgb(238, 131, 113);
+    background-color: rgb(36, 35, 35);
 }
 
 /* W3Schools Horizontal NavBar */
@@ -20,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(197, 101, 84);
+    background-color: rgb(88, 88, 88);
 }
 
 .navigation li {
@@ -37,7 +37,7 @@ body {
 }
 
 .navigation li a:hover:not(.active) {
-    background-color: rgb(155, 63, 46);
+    background-color: rgb(61, 128, 83);
 }
 
 .container {
@@ -49,14 +49,14 @@ body {
 }
 
 .flex-child {
-    background-color: rgb(197, 101, 84);
+    background-color: rgb(55, 107, 91);
     margin: 15px;
     color:white;
 }
 
 .header {
-    padding: 10px 25px 10px 25px;
-    border-radius: 30px;
+    padding: 25px 15px 10px 15px;
+    border-radius:25px;
 }
 
 .header h1 {
@@ -96,15 +96,15 @@ body {
     font-size: 20px;
     color: white;
     text-decoration: none;
-    background-color: rgb(155, 63, 46);
-    padding: 8px 8px 8px 8px;
+    background-color: rgb(134, 134, 134);
+    padding: 5px 5px 5px 5px;
     border-radius: 5px;
     /* margin: 10px; */
     /* padding: 3px; */
 }
 
 a:hover {
-    background-color: rgb(238, 131, 113);
+    background-color: rgb(61, 128, 83);
     text-decoration:none; 
     cursor: pointer;
 }
