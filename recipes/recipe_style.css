@@ -99,6 +99,7 @@ body {
 .ingredients h2, h4
 .instructions h2, h4 {
     margin-bottom: 5px;
+    padding: 5px;
 }
 
 .instructions{
@@ -107,10 +108,12 @@ body {
 
 .ingredients ul {
     list-style-position: inside;
+    padding: 20px;
 }
 
 .instructions ol {
     list-style-position: inside;
+    padding: 20px;
 }
 
 .ingredients ul li {
